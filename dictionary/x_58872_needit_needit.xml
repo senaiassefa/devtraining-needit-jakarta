@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element audit="true" extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" sizeclass="11" type="collection">
+    <element audit="true" extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit" sizeclass="13" type="collection">
         <element attributes="edge_encryption_enabled=true" choice="1" label="Other" max_length="40" name="u_other" type="string">
             <choice>
                 <element label="Choice 1" sequence="0" value="Choice 1"/>
